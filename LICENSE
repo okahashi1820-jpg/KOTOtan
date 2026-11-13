@@ -1,0 +1,34 @@
+KOTOtan
+Copyright (c) 2026 Shimako. All Rights Reserved.
+
+著作権者 Shimako の書面による許可なく、以下を行うことはできません。
+Without prior written permission from the copyright holder (Shimako), you may NOT:
+
+  - 複製・改変・再配布すること / copy, modify, or redistribute this work
+    （自分のサイトや他のサービスに置き直すことを含む / including hosting a copy elsewhere）
+  - この作品のコード・画面・演出・仕様の表現を、類似作品に流用すること
+    / reuse its code, screens, effects, or expression in a similar work
+  - 商用に利用すること / use it commercially
+  - 作者表記（著作権表示・作者の目印）を削除・変更すること
+    / remove or alter the author notices
+
+許可されること / Permitted:
+
+  - 公式ページで遊ぶこと / playing the game on its official pages
+  - GitHub の利用規約が認める範囲での、リポジトリの閲覧とフォーク
+    / viewing and forking the repository only to the extent the GitHub Terms of Service allow
+
+例外：辞書データ / Exception: dictionary data
+
+  ゲーム用辞書（data/kotoba-dict*.json と、ゲームに埋め込まれた辞書）は、JMdict
+  （(c) Electronic Dictionary Research and Development Group）から作った派生物であり、
+  CC BY-SA 4.0 に従います。 https://www.edrdg.org/edrdg/licence.html
+  この例外は辞書データだけに及び、ゲームのコード・画面・演出・仕様には及びません。
+
+  The game dictionary (data/kotoba-dict*.json and the dictionary embedded in the game) is derived
+  from JMdict ((c) Electronic Dictionary Research and Development Group) and is licensed under
+  CC BY-SA 4.0: https://www.edrdg.org/edrdg/licence.html
+  This exception covers the dictionary data only, not the game's code, screens, effects, or design.
+
+この作品は現状のまま提供され、いかなる保証もありません。
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
